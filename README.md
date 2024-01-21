@@ -1,3 +1,7 @@
+Hi! I will show you the technologies that you most often use and master in software development.
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Perdansgomes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Perdansgomes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
